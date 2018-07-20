@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Asian Far East Environment/Demo 1/Demo 1.unity
+  isLoaded: 1
+  isActive: 1
